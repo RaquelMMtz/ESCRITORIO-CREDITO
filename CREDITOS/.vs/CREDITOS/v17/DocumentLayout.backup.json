@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\CREDITOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483F2B3A-B70E-445B-80A5-A6F5A4E1D058}|CREDITOS\\CREDITOS.csproj|c:\\users\\user\\source\\repos\\creditos\\creditos\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483F2B3A-B70E-445B-80A5-A6F5A4E1D058}|CREDITOS\\CREDITOS.csproj|solutionrelative:creditos\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483F2B3A-B70E-445B-80A5-A6F5A4E1D058}|CREDITOS\\CREDITOS.csproj|c:\\users\\user\\source\\repos\\creditos\\creditos\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483F2B3A-B70E-445B-80A5-A6F5A4E1D058}|CREDITOS\\CREDITOS.csproj|solutionrelative:creditos\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483F2B3A-B70E-445B-80A5-A6F5A4E1D058}|CREDITOS\\CREDITOS.csproj|C:\\Users\\USER\\source\\repos\\CREDITOS\\creditos\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483F2B3A-B70E-445B-80A5-A6F5A4E1D058}|CREDITOS\\CREDITOS.csproj|solutionrelative:creditos\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CREDITOS\\CREDITOS\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CREDITOS\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CREDITOS\\CREDITOS\\RegisterForm.cs",
+              "RelativeToolTip": "CREDITOS\\RegisterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:22:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CREDITOS\\CREDITOS\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "CREDITOS\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CREDITOS\\CREDITOS\\RegisterForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CREDITOS\\RegisterForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:21:59.275Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CREDITOS\\CREDITOS\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "CREDITOS\\MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CREDITOS\\CREDITOS\\MainMenuForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CREDITOS\\MainMenuForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:59:19.239Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
